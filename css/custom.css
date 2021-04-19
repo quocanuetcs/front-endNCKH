@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@500&display=swap');
+
+body {
+	font-family: 'Exo', sans-serif;
+}
+
+.tit-color {
+	color: #930000;
+}
+
+.answer {
+	width: 80%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+.ans-input {
+	/*margin-top: 2%;*/
+	margin-bottom: 2%;
+}
+
+#textarea {
+	height: 150px;
+}
+
+#detail {
+	height: 150px;
+}
+
+.answer-link {
+	text-decoration: none;
+	color: #930000;
+	padding-top: 1%;
+}
+
+.answer-link:hover {
+	text-decoration: underline;
+	color: #930000;
+	padding-top: 1%;
+}
+
+.answer-add {
+	text-decoration: none;
+	color: #930000;
+}
+
+.answer-add:hover {
+	text-decoration: underline;
+	color: #930000;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.h5 {
+	margin-bottom: 0%;
+}
+
+.input-group{
+	margin-bottom: 0%
+}
+
+.ans-input{
+	margin-bottom: 1%
+}
+
+.btn-lg{
+	padding-top: 0%
+}
+
+h2{
+	font-weight: bold;
+}
+
+h1{
+	font-weight: bold;
+}
+
+h3{
+	font-weight: bold;
+}
+
+#textarea2{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#attachFileClick {
+	position: absolute;
+	font-size: 50px;
+	opacity: 0;
+	right: 0;
+	top: 0;
+}
+
+.attachFile{
+	position: relative;
+	overflow: hidden;
+}
